@@ -15,6 +15,7 @@
       <mapping pattern=".env_" type="PLAIN_TEXT" />
       <mapping pattern=".gitigrone" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
+      <mapping pattern=".eslint" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc_local" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
