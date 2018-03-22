@@ -21,6 +21,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="proposal-get-order.json" type="PLAIN_TEXT" />
       <mapping pattern=".getkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".editiorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".evn.local" type="PLAIN_TEXT" />
       <mapping pattern=".eslint_proposal" type="PLAIN_TEXT" />
       <mapping pattern="BACK-1433.js" type="PLAIN_TEXT" />
