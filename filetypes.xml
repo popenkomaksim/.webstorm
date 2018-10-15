@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="cosabella" type="AspectJ" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern=".env.aaa" type="PLAIN_TEXT" />
       <mapping pattern=".static" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="CHECKS" type="PLAIN_TEXT" />
       <mapping pattern=".gitkepp" type="PLAIN_TEXT" />
-      <mapping pattern="de" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern=".env.stg" type="PLAIN_TEXT" />
       <mapping pattern="DOKKU_SCALE" type="PLAIN_TEXT" />
       <mapping pattern="inset_layouts.json" type="PLAIN_TEXT" />
@@ -22,19 +22,20 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="proposal-get-order.json" type="PLAIN_TEXT" />
       <mapping pattern=".getkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".editiorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".evn.local" type="PLAIN_TEXT" />
       <mapping pattern=".eslint_proposal" type="PLAIN_TEXT" />
       <mapping pattern="BACK-1433.js" type="PLAIN_TEXT" />
-      <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="shinola" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern=".editiorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="de" type="PLAIN_TEXT" />
+      <mapping pattern="proposal-post-convert-request" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="cosabell" type="PLAIN_TEXT" />
-      <mapping pattern="proposal-post-convert-request" type="PLAIN_TEXT" />
+      <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".env.deployed-kuna" type="PLAIN_TEXT" />
