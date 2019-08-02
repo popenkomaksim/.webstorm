@@ -2,10 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="cosabella" type="AspectJ" />
-      <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="DOKKU_SCALE" type="PLAIN_TEXT" />
       <mapping pattern=".env_" type="PLAIN_TEXT" />
@@ -58,8 +56,8 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
