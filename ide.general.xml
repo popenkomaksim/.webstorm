@@ -4,5 +4,6 @@
     <entry key="tabs.alphabetical" value="true" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="js.debugger.webconsole" value="false" />
   </component>
 </application>
