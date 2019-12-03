@@ -6,6 +6,7 @@
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="proposal-post-convert-request" type="PLAIN_TEXT" />
       <mapping pattern="DOKKU_SCALE" type="PLAIN_TEXT" />
+      <mapping pattern="20191203-swipeState" type="PLAIN_TEXT" />
       <mapping pattern=".env.aaa" type="PLAIN_TEXT" />
       <mapping pattern=".static" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
@@ -38,13 +39,13 @@
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="20191128-global-settings-min-ios-ver.md" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".env.deployed-kuna" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="20191128-global-settings-min-ios-ver.md" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="p8" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
