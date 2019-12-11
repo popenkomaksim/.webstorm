@@ -41,6 +41,7 @@
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern="20191128-global-settings-min-ios-ver.md" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="abc" type="PLAIN_TEXT" />
       <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".env.deployed-kuna" type="PLAIN_TEXT" />
