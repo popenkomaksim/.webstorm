@@ -10,6 +10,7 @@
       <mapping pattern=".env.aaa" type="PLAIN_TEXT" />
       <mapping pattern=".static" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="static_hosts" type="PLAIN_TEXT" />
       <mapping pattern="CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping pattern=".gitkepp" type="PLAIN_TEXT" />
