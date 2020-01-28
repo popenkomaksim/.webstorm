@@ -6,6 +6,7 @@
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="proposal-post-convert-request" type="PLAIN_TEXT" />
       <mapping pattern="DOKKU_SCALE" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="20191203-swipeState" type="PLAIN_TEXT" />
       <mapping pattern=".env.aaa" type="PLAIN_TEXT" />
       <mapping pattern=".static" type="PLAIN_TEXT" />
