@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="cosabella" type="AspectJ" />
       <mapping pattern="20191128-globalSetting-min-ios-version.md" type="Markdown" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="proposal-post-convert-request" type="PLAIN_TEXT" />
       <mapping pattern="DOKKU_SCALE" type="PLAIN_TEXT" />
@@ -12,9 +13,9 @@
       <mapping pattern=".static" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="static_hosts" type="PLAIN_TEXT" />
-      <mapping pattern="CHECKS" type="PLAIN_TEXT" />
-      <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping pattern=".gitkepp" type="PLAIN_TEXT" />
+      <mapping pattern="www" type="PLAIN_TEXT" />
+      <mapping pattern="CHECKS" type="PLAIN_TEXT" />
       <mapping pattern=".env.stg" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="cosabell" type="PLAIN_TEXT" />
@@ -25,6 +26,7 @@
       <mapping pattern=".eslint" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc_local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.deployed-kuna" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="proposal-get-order.json" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
@@ -34,21 +36,18 @@
       <mapping pattern=".evn.local" type="PLAIN_TEXT" />
       <mapping pattern=".eslint_proposal" type="PLAIN_TEXT" />
       <mapping pattern="BACK-1433.js" type="PLAIN_TEXT" />
-      <mapping pattern="de" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="shinola" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="de" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
-      <mapping pattern="20191128-global-settings-min-ios-ver.md" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="abc" type="PLAIN_TEXT" />
-      <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern=".env.deployed-kuna" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="20191128-global-settings-min-ios-ver.md" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="p8" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
@@ -59,9 +58,9 @@
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="timestamp" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="log" approved="true" type="PLAIN_TEXT" />
