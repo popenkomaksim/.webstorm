@@ -49,6 +49,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.deployed-kuna" type="PLAIN_TEXT" />
+      <mapping ext="0000000002" type="PLAIN_TEXT" />
       <mapping ext="p8" type="PLAIN_TEXT" />
       <mapping ext="hppt" type="PLAIN_TEXT" />
       <mapping ext="timestamp" type="PLAIN_TEXT" />
@@ -56,6 +57,7 @@
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="wt" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
