@@ -13,12 +13,12 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.aaa" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern="proposal-post-convert-request" type="PLAIN_TEXT" />
       <mapping pattern="abc" type="PLAIN_TEXT" />
+      <mapping pattern="proposal-post-convert-request" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern=".eslint" type="PLAIN_TEXT" />
-      <mapping pattern="cosabell" type="PLAIN_TEXT" />
       <mapping pattern="20191203-swipeState" type="PLAIN_TEXT" />
+      <mapping pattern="cosabell" type="PLAIN_TEXT" />
       <mapping pattern=".env.stg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkepp" type="PLAIN_TEXT" />
       <mapping pattern=".gitigrone" type="PLAIN_TEXT" />
