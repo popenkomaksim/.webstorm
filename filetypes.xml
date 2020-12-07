@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="cosabella" type="AspectJ" />
       <mapping pattern="20191128-globalSetting-min-ios-version.md" type="Markdown" />
@@ -13,12 +13,12 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.aaa" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern="proposal-post-convert-request" type="PLAIN_TEXT" />
       <mapping pattern="abc" type="PLAIN_TEXT" />
+      <mapping pattern="proposal-post-convert-request" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern=".eslint" type="PLAIN_TEXT" />
-      <mapping pattern="cosabell" type="PLAIN_TEXT" />
       <mapping pattern="20191203-swipeState" type="PLAIN_TEXT" />
+      <mapping pattern="cosabell" type="PLAIN_TEXT" />
       <mapping pattern=".env.stg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkepp" type="PLAIN_TEXT" />
       <mapping pattern=".gitigrone" type="PLAIN_TEXT" />
@@ -60,18 +60,15 @@
       <mapping ext="wt" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
